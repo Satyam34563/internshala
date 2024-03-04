@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/screens/optionselect.dart';
 import 'package:flutter_application_1/widgets.dart';
 
+// ignore: must_be_immutable
 class ProfileWidget extends StatefulWidget {
   ProfileWidget({super.key, required this.result, required this.dataReq, required this.name, required this.callbackfunction});
   List<String>result;

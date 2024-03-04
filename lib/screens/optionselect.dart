@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_1/widgets.dart';
 import 'package:flutter_sizer/flutter_sizer.dart';
 
+// ignore: must_be_immutable
 class OptionSelect extends StatefulWidget {
   OptionSelect({super.key, required this.st, required this.name});
   List<String>st;
