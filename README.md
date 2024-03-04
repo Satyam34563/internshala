@@ -1,6 +1,6 @@
-# flutter_application_1
+# Internshala clone of Internship page and filter
 
-A new Flutter project.
+Internshala
 
 ## Getting Started
 
